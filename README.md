@@ -1,12 +1,10 @@
 ### Hi there, I'm Cristian 👋
 
 <img src="https://komarev.com/ghpvc/?username=cristian2213&color=blueviolet">
-<br />
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
