@@ -13,7 +13,7 @@ About Me:
 - 💬 Ask me about Javacript, Php, React, NodeJs, Mysql, and Css
 - 😄 Pronouns: Chris
 
-### Languages, Technologies and tools
+### Languages, Technologies and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -32,4 +32,7 @@ About Me:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact)
 
