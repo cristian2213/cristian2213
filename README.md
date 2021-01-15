@@ -36,5 +36,8 @@ About Me:
 <br>
 <br>
 ![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=material-palenight)
+<div  align="right">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=material-palenight)
+</div>
+
 
