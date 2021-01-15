@@ -1,8 +1,9 @@
 ### Hi there, I'm Cristian 👋
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+## Views
 
 <img src="https://komarev.com/ghpvc/?username=cristian2213&color=blueviolet">
-
+<br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 About Me:
