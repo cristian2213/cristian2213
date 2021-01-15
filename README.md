@@ -19,9 +19,9 @@ About Me:
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 <br>
