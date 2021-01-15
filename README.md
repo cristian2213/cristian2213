@@ -32,7 +32,7 @@ About Me:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+<br>
 ![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact)
 
