@@ -35,6 +35,6 @@ About Me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br>
 <br>
-![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact)
+![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark)
 
