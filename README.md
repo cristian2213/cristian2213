@@ -12,7 +12,7 @@ About Me:
 - 🧪 I would like to learn about mobile development
 - 👯 I’m looking to collaborate on Javascript and Php Projects 
 - 💬 Ask me about Javacript, Php, React, NodeJs, Mysql, and Css
-- 😄 Pronouns: Chris
+- 😄 Nicknames: Chris
 
 ### Languages, Technologies and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
