@@ -8,7 +8,7 @@
 About Me:
 
 - 🎓 I’m a web developer 
-- 🌱 ~~~~I’m currently learning Laravel and Vue js	~~~~
+- 🌱 	~~I’m currently learning Laravel and Vue js~~
 - 🧪 I would like to learn about mobile development
 - 👯 I’m looking to collaborate on Javascript and Php Projects 
 - 💬 Ask me about Javacript, Php, React, NodeJs, Mysql, and Css
