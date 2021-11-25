@@ -7,25 +7,27 @@
 
 About Me:
 
-- 🎓 I’m a web developer 
-- 🌱 	~~I’m currently learning Laravel and Vue js~~
-- 🧪 I would like to learn about mobile development
-- 👯 I’m looking to collaborate on Javascript and Php Projects 
-- 💬 Ask me about Javacript, Php, React, NodeJs, Mysql, and Css
+- 🎓 I’m a web developer and soon a mobile developer
+- 🌱 I am currently learning React in deep and the AWS services
+- 🧪 I am currently experiencing with AWS, and then I will start learning about cybersecurity
+- 👯 I’m looking to collaborate on React, VueJs, NodeJs or Nestjs Projects 
+- 💬 Ask me about Php, Javacript, React, VueJs, NodeJs, NestJs, Laravel, and Mysql  
 - 😄 Nicknames: Chris
 
 ### Languages, Technologies and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
