@@ -9,7 +9,7 @@ About Me:
 
 - 🎓 I’m a web developer and soon a mobile developer
 - 🌱 I am currently learning React in deep and the AWS services
-- 🧪 I am currently experiencing with AWS, and then I will start learning about cybersecurity
+- 🧪 I will start learning about cybersecurity
 - 👯 I’m looking to collaborate on React, VueJs, NodeJs or Nestjs Projects 
 - 💬 Ask me about Php, Javacript, React, VueJs, NodeJs, NestJs, Laravel, and Mysql  
 - 😄 Nicknames: Chris
