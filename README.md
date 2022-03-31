@@ -55,8 +55,7 @@ About Me:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-the-badge&logo=Flutter&logoColor=white)
 <br>
 <br>
-<span style="display:flex; justify-content:flex-start; gap:10px;">
+<span style="display:flex; justify-content:flex-start;">
 ![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark)
-
 </span>
