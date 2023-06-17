@@ -8,10 +8,9 @@
 About Me:
 
 - 🎓 I’m a web developer and soon a mobile developer.
-- 🌱 I am currently learning React in deep.
-- 🧪 I will start learning about cybersecurity.
-- 👯 I’m looking to collaborate on React, NodeJs or Nestjs Projects.
-- 💬 Ask me about TypeScript, React, NodeJs, NestJs, and Postgres.
+- 🌱 I am currently learning Next.js in deep.
+- 🧪 I will experiment with Flutter and AI.
+- 👯 I’m looking to collaborate on Next.js or Nestjs Projects.
 - 😄 Nicknames: Chris.
 
 ### Languages, Technologies and Tools:
@@ -50,7 +49,6 @@ About Me:
 <strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-the-badge&logo=react&logoColor=%2361DAFB)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-the-badge&logo=three.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-the-badge&logo=Flutter&logoColor=white)
 <br>
