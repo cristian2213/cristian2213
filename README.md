@@ -7,7 +7,7 @@
 
 About Me:
 
-- 🎓 I’m a web developer and soon a mobile developer.
+- 🎓 I’m a web developer and forking Machine Learning
 - 🌱 I am currently learning Next.js in deep.
 - 🧪 I will experiment with Flutter and AI.
 - 👯 I’m looking to collaborate on Next.js or Nestjs Projects.
@@ -19,7 +19,6 @@ About Me:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
 <br>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 <br>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -27,8 +26,8 @@ About Me:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=white)
 <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-the-badge&logo=next.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-the-badge&logo=redux&logoColor=white)
@@ -36,19 +35,16 @@ About Me:
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-the-badge&logo=react-router&logoColor=white)
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-the-badge&logo=docker&logoColor=white)
 <br>
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 <br>
 
 <strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-the-badge&logo=next.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-the-badge&logo=three.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-the-badge&logo=Flutter&logoColor=white)
 <br>
