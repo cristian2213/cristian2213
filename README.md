@@ -45,15 +45,18 @@ About Me:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 <br>
 
-<strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat-the-badge&logo=three.js&logoColor=white)
+<strong style="margin-bottom: 10px; display: block;">
+<span>Upcoming:</span>
+<br>
+<img src="https://img.shields.io/badge/threejs-black?style=flat-the-badge&logo=three.js&logoColor=white" />
+</strong>
 <br>
 <br>
 <span style="display:flex; justify-content:flex-start;">
 <span style="width:480px;">
-![All Stats]<img src="https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=false&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=false&theme=vue-dark&hide_border=true" />
 </span>
 <span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark&hide_border=true" />
 </span>
 </span>
