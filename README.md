@@ -7,10 +7,10 @@
 
 About Me:
 
-- 🎓 I’m a web developer and forking Machine Learning
-- 🌱 I am currently learning Next.js in deep.
-- 🧪 I will experiment with Flutter and AI.
-- 👯 I’m looking to collaborate on Next.js or Nestjs Projects.
+- 🎓 I’m a full-stack web developer with a growing interest in Machine Learning.
+- 🌱 Currently expanding my skills in UI/UX design, Flutter, and mathematics.
+- 🧪 Excited to develop projects using Next.js, NestJS, and Flutter, and exploring Gemini.
+- 👯 Seeking collaboration on medium to large projects with profit sharing opportunities.
 - 😄 Nicknames: Chris.
 
 ### Languages, Technologies and Tools:
@@ -25,6 +25,7 @@ About Me:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=white)
 <br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-the-badge&logo=next.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -33,6 +34,7 @@ About Me:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-the-badge&logo=redux&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-the-badge&logo=apollo-graphql)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-the-badge&logo=react-router&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -44,14 +46,12 @@ About Me:
 <br>
 
 <strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-the-badge&logo=three.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-the-badge&logo=Flutter&logoColor=white)
 <br>
 <br>
 <span style="display:flex; justify-content:flex-start;">
 <span style="width:480px;">
-![All Stats](https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
+![All Stats]<img src="https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=false&theme=vue-dark&hide_border=true" />
 </span>
 <span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark)
