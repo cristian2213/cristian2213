@@ -1,17 +1,12 @@
-# Hi there, I'm Christian 👋
-
-## Views
+# Hi there, I'm Cristian 👋
 
 <img src="https://komarev.com/ghpvc/?username=cristian2213&color=blueviolet">
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 About Me:
 
-- 🎓 I’m a full-stack web developer with a growing interest in Machine Learning.
 - 🌱 Currently expanding my skills in UI/UX design, Flutter, and mathematics.
-- 🧪 Excited to develop projects using Next.js, NestJS, and Flutter, and exploring Gemini.
 - 👯 Seeking collaboration on medium to large projects with profit sharing opportunities.
-- 😄 Nicknames: Chris.
 
 ### Languages, Technologies and Tools:
 
@@ -54,9 +49,9 @@ About Me:
 <br>
 <span style="display:flex; justify-content:flex-start;">
 <span style="width:480px;">
-<img src="https://github-readme-stats.vercel.app/api?username=cristian2213&show_icons=true&include_all_commits=false&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=cristian2213&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" alt="stats graph" height="200"  />
 </span>
 <span>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2213&layout=compact&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian2213&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false" alt="languages graph" height="200"  />
 </span>
 </span>
