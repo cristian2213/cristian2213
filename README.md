@@ -52,6 +52,6 @@ About Me:
 <img src="https://github-readme-stats.vercel.app/api?username=cristian2213&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&card_width=320" alt="stats graph" height="200"  />
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian2213&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false" alt="languages graph" height="200"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian2213&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=false" alt="languages graph" height="200"  />
 </span>
 </span>
