@@ -5,7 +5,7 @@
 
 About Me:
 
-- 🌱 Currently expanding my skills in UI/UX design, Flutter, and mathematics.
+- 🌱 Currently expanding my skills in Mathematics and Stock markets.
 - 👯 Seeking collaboration on medium to large projects with profit sharing opportunities.
 
 ### Languages, Technologies and Tools:
